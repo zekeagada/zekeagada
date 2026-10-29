@@ -11,14 +11,14 @@ I'm a Computer Science student at Oral Roberts University with a passion for **s
 
 ---
 
-### 🔭 What I'm Working On
+###  What I'm Working On
 -  Building custom C/C++ data structure implementations from scratch.
 -  Developing backend logging systems and API architectures.
 -  Exploring performance optimization and system-level logic.
 
 ---
 
-### 📬 Connect With Me
+###  Connect With Me
 - LinkedIn: www.linkedin.com/in/ezekiel-agada-643ba3438
 - Email: zekeagada@gmail.com
 <!--
